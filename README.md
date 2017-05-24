@@ -9,12 +9,11 @@ deep learning chat groups and projects at td
     ```
     git clone https://github.com/lampda/tddc
     ```
-and create your own branch `new_branch_name` (each branch corresponds to an independent project) locally with
+* create your own branch `new_branch_name` (each branch corresponds to an independent project) locally with
 
     ```
     git checkout -b new_branch_name
     ```
-
 * create your *project folder*, such as `my_proj_name`
 * add your documents, codes, images, etc, **BUT** NO large files for convenience (providing links for them is recommended if any)
 * make your changes to your project files
