@@ -30,7 +30,10 @@ deep learning chat groups and projects at td
 * you are done, waiting for other comments or pull-requests, and then communicating, improving, learning iteratively
 
 
+# note before push
+pull _*request*_ from **ANY** branch, but **NEVER** _*push*_ to **MASTER** branch.
+
 # contributors
-Enjoy contributing!
+Enjoy contributing and growing!
 
 
