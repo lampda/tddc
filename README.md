@@ -1,2 +1,2 @@
-# tddc
-deep learning groups/projects at td
+# deep sentiment
+deep learning model for twitter sentiment analysis
